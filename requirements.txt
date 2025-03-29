@@ -1,0 +1,5 @@
+requests
+web3
+python-telegram-bot==13.7
+
+rgbbuwtlxt
